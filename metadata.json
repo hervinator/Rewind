@@ -1,0 +1,6 @@
+{
+  "name": "Rewind",
+  "description": "A modern nostalgic social network tailored for 90s and 2000s kids featuring memories feed, local meetups, retro marketplace, communities, AIM messenger, and time capsule profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
